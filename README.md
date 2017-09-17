@@ -13,6 +13,8 @@ Dual 1-dimensional Perlin noise to move a point through 2-d space, with time as 
 
 ![screenshot](https://github.com/elterminad0r/perl/blob/master/screenshots/perl_3.png)
 
+There is also [a video](https://youtu.be/gF6Wr106b4M) of this one.
+
 Lots of Perlin noise to move a box through 3-D space a la Wingardium Leviosa. Varies a lot.
 
 ![screenshot](https://github.com/elterminad0r/perl/blob/master/screenshots/boxperl.png)

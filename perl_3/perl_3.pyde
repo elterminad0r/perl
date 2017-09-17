@@ -1,9 +1,9 @@
 def setup():
     global t
-    size(800, 800)
+    size(1280, 720)
     t = 0
     
-BLOCK_SIZE = 8
+BLOCK_SIZE = 4
 
 def draw():
     colorMode(HSB, 255, 255, 255)
